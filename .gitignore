@@ -30,3 +30,11 @@
 
 # Debug files
 *.dSYM/
+
+# Xcode project files
+*.xcworkspace
+*.xcodeproj
+
+# System files
+.DS_Store
+*~
